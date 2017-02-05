@@ -9,5 +9,4 @@ A second modification. Testing at git fetch command
 c1d93c1118db56f4ab68621aff09f29f5c211198
 
 Technique 14
-master - merge conflict
-
+master - merge conflict chapter-two merge conflict
